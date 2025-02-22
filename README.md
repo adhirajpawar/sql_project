@@ -1,4 +1,5 @@
-# Retail Sales Analysis SQL Project
+# SQLRetailViz: SQL-driven retail analytics with potential for visualization.
+
 
 ## Project Overview
 
